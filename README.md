@@ -58,7 +58,7 @@ python run.py -q "YOUR QUERY" -n 20
 ## Improvements
 
 - Memory optimization 
-  - It is using too much memory right now. I can optimize the way vectors are stored in the future (a lot of zeroes in the vectors that are being stored right now).
+  - It is using too much memory right now. I can optimize the way vectors are stored in the future.
 - Accuracy
   - TF-IDF on movie summary gives a limited search accuracy. There are more sophisticated algorithms (DL/RL related) that utilizes more movie data (user, location, etc.) which will produce much better results. 
 - Time complexity
