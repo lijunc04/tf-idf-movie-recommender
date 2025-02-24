@@ -1,6 +1,6 @@
 # AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
 
-By [Lijun Cai](lijunc04.github.io)
+By [Lijun Cai](https://lijunc04.github.io)
 
 I tried implementing TF-IDF on a movie summary database.
 
