@@ -2,7 +2,7 @@
 
 By [Lijun Cai](lijunc04.github.io)
 
-I tried implementing TF-IDF on a movie summary database I found [here](#database).
+I tried implementing TF-IDF on a movie summary database.
 
 ## Database & Download 
 
